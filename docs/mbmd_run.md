@@ -32,6 +32,7 @@ mbmd run [flags]
                                          SDM220    Eastron SDM220
                                          SDM230    Eastron SDM230
                                          SDM72     Eastron SDM72
+										 SDM72V2   Eastron SDM72-V2
                                          SEMTR     SolarEdge SE-MTR-3Y
                                        TCP
                                          SUNS      Sunspec-compatible MODBUS TCP device (SMA, SolarEdge, KOSTAL, etc)

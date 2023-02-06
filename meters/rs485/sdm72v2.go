@@ -3,7 +3,7 @@ package rs485
 import . "github.com/volkszaehler/mbmd/meters"
 
 func init() {
-	Register("SDM72-V2", NewSDM72V2Producer)
+	Register("SDM72V2", NewSDM72V2Producer)
 }
 
 type SDM72V2Producer struct {
